@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162955566486",
+    "project_id": "datdtph44184-c8917",
+    "storage_bucket": "datdtph44184-c8917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162955566486:android:f02823d3aa96899060d1b7",
+        "android_client_info": {
+          "package_name": "com.datddtph44184.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYd_RxngFRbjIvrXx5gQdPUw6z2sPgda0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
